@@ -1,0 +1,27 @@
+#eec{
+width: 100%;
+height: 92vh;
+display: flex;
+align-items: center;
+justify-content: center;
+background-image: url(./assets/Group\ 3.png);
+background-repeat: no-repeat;
+background-size: center;
+background-position: center;
+}
+#eec fieldset{
+    width: 90%;
+    height: 85%;
+    text-align: center;
+    border: 3px solid #1488F2;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#eec fieldset legend{
+    color: #ffffff;
+    font-weight: bold;
+
+    
+}
