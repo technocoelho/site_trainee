@@ -41,8 +41,17 @@ background-position: center;
 #eec form div input{
     background: none;
     width: 20vw;
-    height: 15vh;
+    height: 5vh;
     border: none;
     border-bottom: 3px solid #1488F2;
     color: #ffffff;
+}
+#eec form textarea{
+    width: 100%;
+    height: 20vh;
+    border: none;
+    border: 3px solid #1488F2;
+    background: none;
+    color: #ffffff;
+    resize: none;
 }
