@@ -79,3 +79,30 @@ background-position: center;
     background-color: #064988;
     cursor: pointer;
 }
+#bn h1{
+    color: #ffffff;
+}
+#bn{
+    height: 8vh;
+    width: 100%;
+    background-color: #1488F2;
+    display: flex;
+    position: sticky;
+    top: 0;
+    padding: 0rem 1rem;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#ln a{
+    color: #ffffff;
+    text-decoration: none;
+}
+#ln{
+    display: flex;
+    list-style: none;
+    margin-right: 1.5rem;
+}
+.ln-margin{
+    margin-left: 1.5rem;
+}
