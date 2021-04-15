@@ -55,3 +55,27 @@ background-position: center;
     color: #ffffff;
     resize: none;
 }
+#eec form div{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+    margin-bottom: 4.5rem;
+}
+#eec fieldset form button{
+    border: none;
+    width: 20vw;
+    height: 7.5vh;
+    font-size: 1rem;
+    color: #ffffff;
+    font-weight: bold;
+    background-color: #1488F2;
+    transition: 300ms;
+    border-radius: 15px;
+    margin-top: 4.5rem;
+}
+#eec fieldset form button:hover{
+    transition: 300ms;
+    background-color: #064988;
+    cursor: pointer;
+}
