@@ -31,3 +31,18 @@ background-position: center;
     justify-content: center;
     width: 70%;
 }
+#eec fieldset form div{
+    border: none;
+    width: 20vw;
+    height: 10vh;
+    color: #ffffff;
+    border-bottom: 3px solid #1488F2;
+}
+#eec form div input{
+    background: none;
+    width: 20vw;
+    height: 15vh;
+    border: none;
+    border-bottom: 3px solid #1488F2;
+    color: #ffffff;
+}
